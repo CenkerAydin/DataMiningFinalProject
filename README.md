@@ -154,11 +154,11 @@ An interactive recommendation widget built with `ipywidgets` inside the Jupyter 
 
 **Empty state — paste your abstract:**
 
-![UI Empty](https://github.com/CenkerAydin/DataMiningFinalProject/raw/main/ui_empty.png)
+![UI Empty](https://github.com/CenkerAydin/DataMiningFinalProject/raw/main/dm_ui_1.png)
 
 **Prediction output — top-5 journals with confidence bars:**
 
-![UI Result](https://github.com/CenkerAydin/DataMiningFinalProject/raw/main/ui_result.png)
+![UI Result](https://github.com/CenkerAydin/DataMiningFinalProject/raw/main/dm_ui_2.png)
 
 ### How to use
 1. Run all notebook cells
